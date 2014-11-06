@@ -1,0 +1,13 @@
+[user]
+    name = Kevin Knowles
+    email = knowles.kevin@gmail.com
+[push]
+    default = matching
+[alias]
+		lg = log --oneline --graph --decorate
+		st = status
+		ci = commit
+		co = checkout
+		br = branch
+[color]
+    ui = true
