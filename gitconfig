@@ -4,10 +4,11 @@
 [push]
     default = matching
 [alias]
-		lg = log --oneline --graph --decorate
-		st = status
-		ci = commit
-		co = checkout
-		br = branch
+	lg = log --oneline --graph --decorate
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	rv = remote -v
 [color]
     ui = true
