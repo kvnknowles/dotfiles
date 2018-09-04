@@ -1,13 +1,6 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-" Vundle
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'gmarik/Vundle.vim'
-Bundle 'vim-ruby/vim-ruby'
-call vundle#end()            " required
-
 filetype on           " Enable filetype detection
 filetype indent on    " Enable filetype-specific indenting
 filetype plugin on    " Enable filetype-specific plugins
